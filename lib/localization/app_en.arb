@@ -1,0 +1,30 @@
+{
+  "appTitle": "clean_pro_user",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+ "appName":"Clean Pro",
+"home":"Home",
+
+"cart":"Cart",
+"orders":"Orders",
+"ourServices":"Our Services",
+"@ourServices":{
+  "description":"The title of the Service list in the application"
+},
+"washAndFfold":"Wash & Fold",
+"@washAndFold":{
+  "description":"Name of the Washing service in the services list"
+},
+"dryCleaning":"Dry Celaning",
+"@dryCleaning":{
+  "description":"Name of Dry cleaning Service in the service list"
+},
+
+"ironing":"Ironing",
+"@ironing":{
+  "description":"Name of Ironing only Service in the service list"
+}
+  
+  
+}
